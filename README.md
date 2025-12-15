@@ -8,7 +8,7 @@ The program also supports **saving attendance details into a text file** with ti
 ---
 
 ## 🚀 Features
-- ✅ Calculate **current attendance percentage** per subject  
+- ✅ Calculate **current attendance percentage** per subject 
 - ✅ Calculate **maximum hours allowed to take leave** while maintaining minimum attendance  
 - ✅ Input validation for wrong data entries (handles invalid integers and register numbers)  
 - ✅ Option to **swap hours if absent hours > total hours entered**  
