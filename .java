@@ -9,7 +9,7 @@ class attendance1{
     int regno;
     int hourstakentillnow;
     int hoursabsenttillnow;
-    String subjectname1;
+    String subjectname1; 
     float attendedpercentage1;
     float crtattendance;
     attendance1(String name,int regno,String subjectaname1,int hourstakentillnow,int hoursabsenttillnow){
