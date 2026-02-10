@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 class attendance1{
     String name;
-    int regno;
+    int regno; 
     int hourstakentillnow;
     int hoursabsenttillnow;
     String subjectname1;  
